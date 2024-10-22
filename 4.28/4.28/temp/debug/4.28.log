@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.cpp
+C:\大學\程式設計\1024\4.28\4.28\source\Main.cpp(6,16): warning C4101: 'managers': 未參考的區域變數
+C:\大學\程式設計\1024\4.28\4.28\source\Main.cpp(6,44): warning C4101: 'pieceworkers': 未參考的區域變數
+C:\大學\程式設計\1024\4.28\4.28\source\Main.cpp(6,35): warning C4101: 'mission': 未參考的區域變數
+C:\大學\程式設計\1024\4.28\4.28\source\Main.cpp(6,26): warning C4101: 'workers': 未參考的區域變數
+  4.28.vcxproj -> C:\大學\程式設計\1024\4.28\4.28\temp\debug\4.28.exe
